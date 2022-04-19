@@ -53,7 +53,7 @@ class App extends React.Component {
           <AppBar position="static">
             <Toolbar>
               <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
-                Starboard Reports by IBM Client Engineering
+                Starboard Reports by ISCP Kyndryl
               </Typography>
               <Button onClick={() => {
                   window.location.reload(false);
